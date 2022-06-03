@@ -20,7 +20,6 @@ function knapSack($W, $wt, $val, $n)
 
 	echo knapSack($W, $wt, $val, $n);
 
-?>
 
 
 
